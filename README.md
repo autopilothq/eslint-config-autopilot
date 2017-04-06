@@ -58,8 +58,12 @@ quicker understanding.
 PRs can be merged when the majority of the team has reached consensus on the
 proposed rule change.
 
-## Releases
+## Publishing
 
 Please follow [semver](http://semver.org) for any releases as this ensures
 clean updates for projects and allows projects to manage breaking
 changes effectively.
+
+## Release history
+
+- *1.0.0* - Initial release.
